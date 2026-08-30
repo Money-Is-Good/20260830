@@ -1,0 +1,80 @@
+# 20260830 追蹤股票分析報告
+
+- 發布日期：20260830
+- Pages 首頁：[https://Money-Is-Good.github.io/20260830/](https://Money-Is-Good.github.io/20260830/)
+
+## 股票清單
+
+| 代號 | 名稱 | 報告連結 |
+| --- | --- | --- |
+| 1466 | 聚隆 | [https://Money-Is-Good.github.io/20260830/1466/](https://Money-Is-Good.github.io/20260830/1466/) |
+| 1504 | 東元 | [https://Money-Is-Good.github.io/20260830/1504/](https://Money-Is-Good.github.io/20260830/1504/) |
+| 1605 | 華新 | [https://Money-Is-Good.github.io/20260830/1605/](https://Money-Is-Good.github.io/20260830/1605/) |
+| 1616 | 億泰 | [https://Money-Is-Good.github.io/20260830/1616/](https://Money-Is-Good.github.io/20260830/1616/) |
+| 1815 | 富喬 | [https://Money-Is-Good.github.io/20260830/1815/](https://Money-Is-Good.github.io/20260830/1815/) |
+| 2009 | 第一銅 | [https://Money-Is-Good.github.io/20260830/2009/](https://Money-Is-Good.github.io/20260830/2009/) |
+| 2027 | 大成鋼 | [https://Money-Is-Good.github.io/20260830/2027/](https://Money-Is-Good.github.io/20260830/2027/) |
+| 2301 | 光寶科 | [https://Money-Is-Good.github.io/20260830/2301/](https://Money-Is-Good.github.io/20260830/2301/) |
+| 2303 | 聯電 | [https://Money-Is-Good.github.io/20260830/2303/](https://Money-Is-Good.github.io/20260830/2303/) |
+| 2317 | 鴻海 | [https://Money-Is-Good.github.io/20260830/2317/](https://Money-Is-Good.github.io/20260830/2317/) |
+| 2327 | 國巨 | [https://Money-Is-Good.github.io/20260830/2327/](https://Money-Is-Good.github.io/20260830/2327/) |
+| 2330 | 台積電 | [https://Money-Is-Good.github.io/20260830/2330/](https://Money-Is-Good.github.io/20260830/2330/) |
+| 2344 | 華邦電 | [https://Money-Is-Good.github.io/20260830/2344/](https://Money-Is-Good.github.io/20260830/2344/) |
+| 2355 | 敬鵬 | [https://Money-Is-Good.github.io/20260830/2355/](https://Money-Is-Good.github.io/20260830/2355/) |
+| 2359 | 所羅門 | [https://Money-Is-Good.github.io/20260830/2359/](https://Money-Is-Good.github.io/20260830/2359/) |
+| 2368 | 金像電 | [https://Money-Is-Good.github.io/20260830/2368/](https://Money-Is-Good.github.io/20260830/2368/) |
+| 2371 | 大同 | [https://Money-Is-Good.github.io/20260830/2371/](https://Money-Is-Good.github.io/20260830/2371/) |
+| 2382 | 廣達 | [https://Money-Is-Good.github.io/20260830/2382/](https://Money-Is-Good.github.io/20260830/2382/) |
+| 2383 | 台光電 | [https://Money-Is-Good.github.io/20260830/2383/](https://Money-Is-Good.github.io/20260830/2383/) |
+| 2408 | 南亞科 | [https://Money-Is-Good.github.io/20260830/2408/](https://Money-Is-Good.github.io/20260830/2408/) |
+| 2414 | 精技 | [https://Money-Is-Good.github.io/20260830/2414/](https://Money-Is-Good.github.io/20260830/2414/) |
+| 2451 | 創見 | [https://Money-Is-Good.github.io/20260830/2451/](https://Money-Is-Good.github.io/20260830/2451/) |
+| 2455 | 全新 | [https://Money-Is-Good.github.io/20260830/2455/](https://Money-Is-Good.github.io/20260830/2455/) |
+| 2605 | 新興 | [https://Money-Is-Good.github.io/20260830/2605/](https://Money-Is-Good.github.io/20260830/2605/) |
+| 2609 | 陽明 | [https://Money-Is-Good.github.io/20260830/2609/](https://Money-Is-Good.github.io/20260830/2609/) |
+| 2615 | 萬海 | [https://Money-Is-Good.github.io/20260830/2615/](https://Money-Is-Good.github.io/20260830/2615/) |
+| 2637 | 慧洋-KY | [https://Money-Is-Good.github.io/20260830/2637/](https://Money-Is-Good.github.io/20260830/2637/) |
+| 3008 | 大立光 | [https://Money-Is-Good.github.io/20260830/3008/](https://Money-Is-Good.github.io/20260830/3008/) |
+| 3017 | 奇鋐 | [https://Money-Is-Good.github.io/20260830/3017/](https://Money-Is-Good.github.io/20260830/3017/) |
+| 3028 | 增你強 | [https://Money-Is-Good.github.io/20260830/3028/](https://Money-Is-Good.github.io/20260830/3028/) |
+| 3037 | 欣興 | [https://Money-Is-Good.github.io/20260830/3037/](https://Money-Is-Good.github.io/20260830/3037/) |
+| 3044 | 健鼎 | [https://Money-Is-Good.github.io/20260830/3044/](https://Money-Is-Good.github.io/20260830/3044/) |
+| 3189 | 景碩 | [https://Money-Is-Good.github.io/20260830/3189/](https://Money-Is-Good.github.io/20260830/3189/) |
+| 3231 | 緯創 | [https://Money-Is-Good.github.io/20260830/3231/](https://Money-Is-Good.github.io/20260830/3231/) |
+| 3260 | 威剛 | [https://Money-Is-Good.github.io/20260830/3260/](https://Money-Is-Good.github.io/20260830/3260/) |
+| 3324 | 雙鴻 | [https://Money-Is-Good.github.io/20260830/3324/](https://Money-Is-Good.github.io/20260830/3324/) |
+| 3379 | 彬台 | [https://Money-Is-Good.github.io/20260830/3379/](https://Money-Is-Good.github.io/20260830/3379/) |
+| 3443 | 創意 | [https://Money-Is-Good.github.io/20260830/3443/](https://Money-Is-Good.github.io/20260830/3443/) |
+| 3481 | 群創 | [https://Money-Is-Good.github.io/20260830/3481/](https://Money-Is-Good.github.io/20260830/3481/) |
+| 3532 | 台勝科 | [https://Money-Is-Good.github.io/20260830/3532/](https://Money-Is-Good.github.io/20260830/3532/) |
+| 3576 | 聯合再生 | [https://Money-Is-Good.github.io/20260830/3576/](https://Money-Is-Good.github.io/20260830/3576/) |
+| 4958 | 臻鼎-KY | [https://Money-Is-Good.github.io/20260830/4958/](https://Money-Is-Good.github.io/20260830/4958/) |
+| 4989 | 榮科 | [https://Money-Is-Good.github.io/20260830/4989/](https://Money-Is-Good.github.io/20260830/4989/) |
+| 5236 | 凌陽創新 | [https://Money-Is-Good.github.io/20260830/5236/](https://Money-Is-Good.github.io/20260830/5236/) |
+| 5302 | 太欣 | [https://Money-Is-Good.github.io/20260830/5302/](https://Money-Is-Good.github.io/20260830/5302/) |
+| 5340 | 建榮 | [https://Money-Is-Good.github.io/20260830/5340/](https://Money-Is-Good.github.io/20260830/5340/) |
+| 5351 | 鈺創 | [https://Money-Is-Good.github.io/20260830/5351/](https://Money-Is-Good.github.io/20260830/5351/) |
+| 5439 | 高技 | [https://Money-Is-Good.github.io/20260830/5439/](https://Money-Is-Good.github.io/20260830/5439/) |
+| 5475 | 德宏 | [https://Money-Is-Good.github.io/20260830/5475/](https://Money-Is-Good.github.io/20260830/5475/) |
+| 5483 | 中美晶 | [https://Money-Is-Good.github.io/20260830/5483/](https://Money-Is-Good.github.io/20260830/5483/) |
+| 5608 | 四維航 | [https://Money-Is-Good.github.io/20260830/5608/](https://Money-Is-Good.github.io/20260830/5608/) |
+| 6111 | 光聚晶電 | [https://Money-Is-Good.github.io/20260830/6111/](https://Money-Is-Good.github.io/20260830/6111/) |
+| 6143 | 振曜 | [https://Money-Is-Good.github.io/20260830/6143/](https://Money-Is-Good.github.io/20260830/6143/) |
+| 6182 | 合晶 | [https://Money-Is-Good.github.io/20260830/6182/](https://Money-Is-Good.github.io/20260830/6182/) |
+| 6213 | 聯茂 | [https://Money-Is-Good.github.io/20260830/6213/](https://Money-Is-Good.github.io/20260830/6213/) |
+| 6239 | 力成 | [https://Money-Is-Good.github.io/20260830/6239/](https://Money-Is-Good.github.io/20260830/6239/) |
+| 6274 | 台燿 | [https://Money-Is-Good.github.io/20260830/6274/](https://Money-Is-Good.github.io/20260830/6274/) |
+| 6442 | 光聖 | [https://Money-Is-Good.github.io/20260830/6442/](https://Money-Is-Good.github.io/20260830/6442/) |
+| 6488 | 環球晶 | [https://Money-Is-Good.github.io/20260830/6488/](https://Money-Is-Good.github.io/20260830/6488/) |
+| 6669 | 緯穎 | [https://Money-Is-Good.github.io/20260830/6669/](https://Money-Is-Good.github.io/20260830/6669/) |
+| 6733 | 博晟生醫 | [https://Money-Is-Good.github.io/20260830/6733/](https://Money-Is-Good.github.io/20260830/6733/) |
+| 6763 | 綠界科技* | [https://Money-Is-Good.github.io/20260830/6763/](https://Money-Is-Good.github.io/20260830/6763/) |
+| 8027 | 鈦昇 | [https://Money-Is-Good.github.io/20260830/8027/](https://Money-Is-Good.github.io/20260830/8027/) |
+| 8046 | 南電 | [https://Money-Is-Good.github.io/20260830/8046/](https://Money-Is-Good.github.io/20260830/8046/) |
+| 8069 | 元太 | [https://Money-Is-Good.github.io/20260830/8069/](https://Money-Is-Good.github.io/20260830/8069/) |
+| 8112 | 至上 | [https://Money-Is-Good.github.io/20260830/8112/](https://Money-Is-Good.github.io/20260830/8112/) |
+| 8155 | 博智 | [https://Money-Is-Good.github.io/20260830/8155/](https://Money-Is-Good.github.io/20260830/8155/) |
+| 8255 | 朋程 | [https://Money-Is-Good.github.io/20260830/8255/](https://Money-Is-Good.github.io/20260830/8255/) |
+| 8358 | 金居 | [https://Money-Is-Good.github.io/20260830/8358/](https://Money-Is-Good.github.io/20260830/8358/) |
+| 8403 | 盛弘 | [https://Money-Is-Good.github.io/20260830/8403/](https://Money-Is-Good.github.io/20260830/8403/) |
+| 8422 | 可寧衛* | [https://Money-Is-Good.github.io/20260830/8422/](https://Money-Is-Good.github.io/20260830/8422/) |
